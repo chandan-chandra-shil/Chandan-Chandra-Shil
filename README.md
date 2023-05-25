@@ -2,7 +2,6 @@
 #### Frontend Developer
 ![Frontend Developer](https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Welcome to my GitHub profile .I'm Frontend Developer . I  
 
 Skills: HTML / CSS / BOOTSTRAP / Tailwind / DaisyUI / REACT.JS
 
