@@ -2,6 +2,7 @@
 #### Frontend Developer
 ![Frontend Developer](https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
+I'm  junior frontend developer dedicated to crafting meaningful and impactful digital experiences. Through my GitHub profile, I showcase a collection of projects that reflect my passion for creating user-friendly interfaces and robust web applications. Let's connect and collaborate to bring innovative ideas to life in the world of web development."
 
 Skills: HTML / CSS / BOOTSTRAP / Tailwind / DaisyUI / REACT.JS
 
