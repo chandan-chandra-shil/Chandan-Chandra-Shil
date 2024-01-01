@@ -5,7 +5,7 @@
 
 Skills: HTML / CSS / BOOTSTRAP / Tailwind / DaisyUI / REACT.JS
 
-- 🌱 I’m currently learning react.js and next.js 
+- 🌱 I’m currently learning  next.js 
 - 📫 How to reach me: chandanchandrashil22@gmail.com 
 
 
